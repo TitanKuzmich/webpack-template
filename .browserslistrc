@@ -1,0 +1,10 @@
+[production]
+last 20 Chrome versions
+last 20 Firefox versions
+last 20 iOS versions
+last 20 Safari versions
+last 5 Edge versions
+android >= 6.0
+
+[development]
+last 20 Chrome versions
