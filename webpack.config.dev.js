@@ -98,7 +98,7 @@ const devConfig = () => {
             }),
 
             new SpriteLoaderPlugin()
-        ].concat(multipleHtmlPlugins),
+        ],
 
         module: {
             unsafeCache: true,
